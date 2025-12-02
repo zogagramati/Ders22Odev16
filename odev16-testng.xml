@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SelenideOdev16Suite">
+    <test name="SelenideOdev16Tests">
+        <classes>
+            <!-- Click Button testi -->
+            <class name="Odevler.ClickButtonSelenideTest"/>
+
+            <!-- Add Record testi -->
+            <class name="Odevler.AddRecordSelenideTest"/>
+        </classes>
+    </test>
+</suite>
+
+
